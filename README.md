@@ -34,6 +34,13 @@ To demonstrate a foundational understanding of data governance principles and me
 - Markdown & CSV
 - Visualisation (optional): draw.io / Lucidchart for diagrams
 
+## Glossary Diagram
+
+The following diagram visualises the relationship between Domains, Business Terms, Stewards, and Statuses in this mock glossary.
+
+![Glossary Diagram](assets/glossary_diagram.png)
+
+
 ##  Future Enhancements
 
 - Add sample workflows to simulate stewardship
