@@ -1,0 +1,6 @@
+Business Term     , Definition                                        , Domain            , Steward       , Status
+Customer ID       , Unique identifier for each customer               , Customer Data     , Arun Raj P.   , Approved
+Sales Revenue     , Total income from sales before expenses           , Financial Metrics , Finance Team  , Approved
+Churn Rate        , Percentage of customers who stopped using services, Customer Analytics, Analytics Team, In Review
+SKU               , Stock Keeping Unit - unique product identifier    , Inventory         , Ops Manager   , Approved
+Order Fulfilment %, Percentage of orders delivered on time            , Logistics Metrics , SCM Lead      , Draft
